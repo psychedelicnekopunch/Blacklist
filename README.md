@@ -15,4 +15,5 @@
 * HeadlessChrome
 * Scrapy
 * SERankingBacklinksBot
+* Symfony BrowserKit
 * Twitterbot
